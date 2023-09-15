@@ -1,5 +1,5 @@
 import './style.css'
-import logo_In from "../../assets/img/Logo_IntegraDash.png"
+import logo_In from "../../assets/img/INTEGRADASH.png"
 import Logoclaro from "../../assets/img/LOGO_CELULAR.png"
 
 
