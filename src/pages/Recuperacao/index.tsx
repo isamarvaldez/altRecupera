@@ -52,7 +52,7 @@ function Recuperacao() {
           className="rapaz_dashboard"
           src={group36}
           alt="Rapaz em frente a um Dashboard apontando pra ele"
-        />
+        />F
       </div>
     </section>
   </section>
@@ -61,3 +61,4 @@ function Recuperacao() {
   )
 }
 export default Recuperacao
+
